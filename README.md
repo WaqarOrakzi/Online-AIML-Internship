@@ -55,9 +55,3 @@ Male students performed better in math.
 Female students performed better in:
 - Reading
 - Writing
-
----
-
-## Best Visualization
-
-(Add your dashboard screenshot here)
